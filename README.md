@@ -8,4 +8,3 @@ pip install a-life
 📩・**Vous-voulez me contacter ? Venez sur mon [Discord](https://discord.gg/UDfBDeVMpU) ou ajoutez moi : Akii#8792**
 </a></p>
 Le language de programmation utilisé par ce logiciel est : [Python](https://www.python.org)
-<title>Utilisation :</title>
