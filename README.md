@@ -10,7 +10,7 @@ pip install a-life
 Le language de programmation utilisé par ce logiciel est : [Python](https://www.python.org)
 
 ## ⚙・Installation
-1. Avoir installé [python](https://www.python.org)
+1. Avoir installé [python](https://www.python.org) sur votre ordinateur
 2. Executez `setup.bat` pour avoir tout les modules utilisés par le logiciel
 3. Mettre les tokens à utilisé dans `tokens.txt`
 
