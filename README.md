@@ -14,4 +14,6 @@ Le language de programmation utilisé par ce logiciel est : [Python](https://www
 2. Executez `setup.bat` pour avoir tout les modules utilisés par le logiciel
 3. Mettre les tokens à utilisé dans `tokens.txt`
 
-AUCUNS PROXIES N'EST UTILISE PAR LE LOGICIEL, JE NE SERAI PAS REPONSABLE SI VOUS AVEZ TOUT PROBLEMES AVEC DISCORD !!!
+## ⚠️・ATTENTION
+
+**Ce logiciel a été créer dans un but éducatif, Akii ne sera absolument pas résponsable des actes ou répercussions que pourrait causer l'utilisation de ce logiciel !**
