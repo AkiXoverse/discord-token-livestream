@@ -11,8 +11,9 @@ Le language de programmation utilisé par ce logiciel est : [Python](https://www
 
 ## ⚙・Installation
 1. Avoir installé [python](https://www.python.org) sur votre ordinateur
-2. Executez `setup.bat` pour avoir tout les modules utilisés par le logiciel
+2. Exécuté `setup.bat` pour avoir tout les modules utilisés par le logiciel
 3. Mettre les tokens à utilisé dans `tokens.txt`
+4. Exécuté `livestream.py`
 
 ## ⚠️・ATTENTION
 
